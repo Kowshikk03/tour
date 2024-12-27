@@ -1,0 +1,11 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+
+  }
+  
+  .custom-search-box {
+    max-width: 600px; 
+  }
+  
